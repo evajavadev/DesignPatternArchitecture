@@ -45,6 +45,11 @@ Visitor
 <br>
 
 ## Anti Patterns
-Software Development AntiPatterns
-Software Architecture AntiPatterns
+Software Development AntiPatterns <br>
+Software Architecture AntiPatterns <br>
 Software Project Management AntiPatterns
+
+<br>
+<br>
+
+> Ongoing &nbsp; ✔️
