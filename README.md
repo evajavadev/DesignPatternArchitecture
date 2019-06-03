@@ -43,6 +43,7 @@ Template method <br>
 Visitor
 
 <br>
+<br>
 
 ## Anti Patterns
 Software Development AntiPatterns <br>
