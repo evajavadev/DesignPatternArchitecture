@@ -9,37 +9,37 @@ A map on the design pattern architecture
 
 #### Creational Patterns
 Abstract Factory <br>
-Builder
-Factory Method
-Object Pool
-Prototype
-Singleton
+Builder <br> 
+Factory Method <br>
+Object Pool <br>
+Prototype <br>
+Singleton 
 
 <br>
 
 #### Structural Patterns
-Adapter
-Bridge
-Composite
-Facade
-Flyweight
-Private Class Data
+Adapter <br>
+Bridge <br>
+Composite <br>
+Facade <br>
+Flyweight <br>
+Private Class Data 
 Proxy
 
 <br>
 
 #### Behavioral Patterns
-Chain of responsibility
-Command
-Interpreter
-Iterator
-Mediator
-Memento
-Null Object
-Observer
-State
-Strategy
-Template method
+Chain of responsibility  <br>
+Command <br>
+Interpreter <br>
+Iterator <br>
+Mediator <br>
+Memento <br>
+Null Object <br>
+Observer <br>
+State <br>
+Strategy <br>
+Template method <br>
 Visitor
 
 <br>
