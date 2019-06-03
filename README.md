@@ -2,8 +2,7 @@
 
 A map on the design pattern architecture
 
-<br>
-<br>
+<br> 
 
 ## Design Patterns
 
