@@ -7,8 +7,8 @@ A map on the design pattern architecture
 
 ## Design Patterns
 
-### Creational Patterns
-### Structural Patterns
-### Behavioral Patterns
+#### Creational Patterns
+#### Structural Patterns
+#### Behavioral Patterns
 
 ## Anti Patterns
