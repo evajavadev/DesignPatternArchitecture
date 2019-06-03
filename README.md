@@ -8,7 +8,7 @@ A map on the design pattern architecture
 ## Design Patterns
 
 #### Creational Patterns
-Abstract Factory
+Abstract Factory <br>
 Builder
 Factory Method
 Object Pool
