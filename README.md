@@ -11,7 +11,8 @@ analysis patterns <br>
 domain-specific patterns <br>
 performance patterns <br>
 process patterns <br>
-re-engineering patterns
+re-engineering patterns <br>
+...
 
 <br>
 
