@@ -4,6 +4,17 @@ A map on the design pattern architecture, starting with an overall map on patter
 
 <br> 
 
+## An overall map
+design patterns <br>
+process patterns <br>
+analysis patterns <br>
+re-engineering patterns <br>
+performance patterns <br>
+domain-specific patterns <br>
+anti-patterns
+
+<br>
+
 ## Design Patterns
 
 #### Creational Patterns
