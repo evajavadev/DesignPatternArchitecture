@@ -6,7 +6,7 @@ A map on the design pattern architecture, starting with an overall map on patter
 
 ## An overall map
 analysis patterns <br>
->> &nbsp; anti-patterns <br>
+\>> &nbsp; anti-patterns <br>
 >> &nbsp; design patterns <br>
 domain-specific patterns <br>
 performance patterns <br>
