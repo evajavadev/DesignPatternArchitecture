@@ -20,11 +20,11 @@ re-engineering patterns <br>
 
 #### Creational Patterns
 Abstract Factory <br>
-Builder <br> 
+[Builder](https://github.com/evajavadev/ExamplesOnBuilderPattern) <br> 
 Factory Method <br>
 Object Pool <br>
 Prototype <br>
-Singleton 
+[Singleton](https://github.com/evajavadev/ExamplesOnSingletonPattern) 
 
 <br>
 
